@@ -1,7 +1,7 @@
 {
   "name": "vue-producst-grid",
   "version": "1.0.0",
-  "description": "",
+  "description": "vue-products-grid is a responsive Vue component to create a products grid for ecommerce apps.\r Fully configurable with different options and reactive with full integration in your template/project (4 events emitted)",
   "main": "src/main.js",
   "private": true,
   "scripts": {
@@ -70,6 +70,20 @@
     "node": ">= 6.0.0",
     "npm": ">= 3.0.0"
   },
-  "browserslist": ["> 1%", "last 2 versions", "not ie <= 8"],
-  "keywords": []
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabirutd/vue-products-grid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kabirutd/vue-products-grid/issues"
+  },
+  "homepage": "https://github.com/kabirutd/vue-products-grid#readme"
 }
